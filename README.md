@@ -1,9 +1,5 @@
 # Multi-omics data fusion via feature alignment for disease phenotype prediction
 
-
-
-
-# **Framework**
 ![Image description](https://github.com/DMCB-GIST/MFFA/blob/main/pipeline.png)
 
 
