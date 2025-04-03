@@ -4,7 +4,7 @@
 
 
 # **Framework**
-![Image description](https://github.com/DMCB-GIST/MFFA/blob/main/pipeline.png)
+![Image description](https://github.com/DMCB-GIST/MFFA/blob/main/pipeline.pdf)
 
 
 
