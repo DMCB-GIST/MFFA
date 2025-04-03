@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4777.6 2768.4">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 69px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5 {
+        isolation: isolate;
+      }
+
+      .st0, .st6, .st3 {
+        font-family: MalgunGothicBold, 'Malgun Gothic';
+      }
+
+      .st7 {
+        fill: #eebb78;
+      }
+
+      .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29 {
+        stroke-miterlimit: 10;
+      }
+
+      .st7, .st9, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st28 {
+        stroke: #fff;
+      }
+
+      .st30, .st10, .st31, .st11, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st39 {
+        fill: none;
+      }
+
+      .st30, .st31, .st40, .st32, .st41, .st42, .st43, .st44, .st45, .st34, .st35, .st36, .st46, .st47, .st48, .st49, .st50, .st51, .st37, .st38, .st52, .st53, .st54, .st55, .st39, .st56, .st57 {
+        stroke-miterlimit: 8;
+      }
+
+      .st30, .st40, .st41, .st42, .st44, .st45, .st34, .st36, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st55, .st39, .st56, .st57 {
+        stroke: #000;
+      }
+
+      .st30, .st40, .st41, .st44, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st55, .st56, .st57 {
+        stroke-width: 4.6px;
+      }
+
+      .st1 {
+        font-size: 54.3px;
+      }
+
+      .st1, .st58, .st59, .st60, .st4, .st61, .st62, .st5, .st63, .st64, .st65 {
+        font-weight: 700;
+      }
+
+      .st1, .st58, .st60, .st4, .st62, .st5, .st63, .st65 {
+        font-family: Arial-BoldMT, Arial;
+      }
+
+      .st8 {
+        fill: #f7c6ae;
+        stroke-width: 7px;
+      }
+
+      .st8, .st10, .st11, .st32, .st43, .st27, .st29 {
+        stroke: #231815;
+      }
+
+      .st66, .st67, .st42, .st43 {
+        fill: #231815;
+      }
+
+      .st9 {
+        fill: #fad6a7;
+      }
+
+      .st10, .st42, .st34, .st29 {
+        stroke-width: 4px;
+      }
+
+      .st31 {
+        stroke: #e7280f;
+      }
+
+      .st31, .st27, .st39 {
+        stroke-width: 4.6px;
+      }
+
+      .st40 {
+        fill: #1f4e79;
+      }
+
+      .st58 {
+        font-size: 48.7px;
+      }
+
+      .st12 {
+        fill: #ca9149;
+      }
+
+      .st32 {
+        stroke-width: 6px;
+      }
+
+      .st68, .st41 {
+        fill: #fff;
+      }
+
+      .st69, .st59, .st70, .st61, .st64, .st71 {
+        font-style: italic;
+      }
+
+      .st69, .st72 {
+        font-size: 48px;
+      }
+
+      .st69, .st70, .st71 {
+        font-family: Arial-ItalicMT, Arial;
+      }
+
+      .st73 {
+        fill: #ffd966;
+      }
+
+      .st73, .st46, .st74, .st48, .st75, .st76, .st77, .st57 {
+        fill-rule: evenodd;
+      }
+
+      .st67 {
+        font-family: AdobeMyungjoStd-Medium-KSCpc-EUC-H, 'Adobe Myungjo Std';
+        font-size: 80.7px;
+        font-weight: 500;
+      }
+
+      .st59, .st61, .st64 {
+        font-family: Arial-BoldItalicMT, Arial;
+      }
+
+      .st59, .st64 {
+        font-size: 78.4px;
+      }
+
+      .st78 {
+        font-size: 39px;
+      }
+
+      .st78, .st72 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st79 {
+        fill: #e4eb9f;
+      }
+
+      .st13 {
+        fill: #c59e6a;
+      }
+
+      .st43, .st36, .st37 {
+        stroke-width: 2.3px;
+      }
+
+      .st6, .st3 {
+        font-size: 65px;
+      }
+
+      .st44 {
+        fill: #7f7f7f;
+      }
+
+      .st80 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st14 {
+        fill: #ecc48f;
+      }
+
+      .st45 {
+        fill: #a6a6a6;
+      }
+
+      .st15 {
+        fill: #f29417;
+      }
+
+      .st60, .st70, .st71 {
+        font-size: 60px;
+      }
+
+      .st16 {
+        fill: #30bbea;
+      }
+
+      .st17 {
+        fill: #9fd8f3;
+      }
+
+      .st18 {
+        fill: #6bb9e2;
+      }
+
+      .st81 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st35 {
+        stroke-width: 12px;
+      }
+
+      .st35, .st38 {
+        stroke: #ccc;
+      }
+
+      .st19 {
+        fill: #fcf4ea;
+      }
+
+      .st46, .st54 {
+        fill: #bdd7ee;
+      }
+
+      .st20 {
+        fill: #3a8dc8;
+      }
+
+      .st74 {
+        fill: #2f5597;
+      }
+
+      .st47 {
+        fill: #5b9bd5;
+      }
+
+      .st4, .st65 {
+        font-size: 59.5px;
+      }
+
+      .st21 {
+        fill: #a4d4e4;
+      }
+
+      .st48, .st49 {
+        fill: #f1dd92;
+      }
+
+      .st75 {
+        fill: #c5e0b4;
+      }
+
+      .st61 {
+        font-size: 58.8px;
+      }
+
+      .st22 {
+        fill: #f7c07b;
+      }
+
+      .st62 {
+        font-size: 42px;
+      }
+
+      .st23, .st27 {
+        fill: #e9aa55;
+      }
+
+      .st5 {
+        font-size: 57.4px;
+      }
+
+      .st24 {
+        fill: #eff7fb;
+      }
+
+      .st25 {
+        fill: #f0d1a6;
+      }
+
+      .st82 {
+        fill: #ccc;
+      }
+
+      .st50 {
+        fill: #d9d9d9;
+      }
+
+      .st63 {
+        font-size: 49.6px;
+      }
+
+      .st51 {
+        fill: #f5d825;
+      }
+
+      .st26 {
+        fill: #e3f3fb;
+      }
+
+      .st83 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st37 {
+        stroke: #5b9bd5;
+      }
+
+      .st38 {
+        stroke-dasharray: 18.3 13.8;
+        stroke-width: 10px;
+      }
+
+      .st84 {
+        fill: #e7280f;
+      }
+
+      .st53 {
+        fill: #afabab;
+      }
+
+      .st64 {
+        letter-spacing: 0em;
+      }
+
+      .st55, .st57 {
+        fill: #d0cece;
+      }
+
+      .st85 {
+        clip-path: url(#clippath);
+      }
+
+      .st71 {
+        letter-spacing: 0em;
+      }
+
+      .st56 {
+        fill: #767171;
+      }
+
+      .st77 {
+        fill: #8faadc;
+      }
+
+      .st28 {
+        fill: #f0e1cc;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polyline class="st33" points="-63.8 12.5 6055.7 12.5 6055.7 3985.3 -63.8 3985.3"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st33" x="-150.2" y="431.8" width="873" height="654.2"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st33" x="-150.2" y="431.8" width="873" height="654.2"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st33" x="-150.2" y="431.8" width="873" height="654.2"/>
+    </clipPath>
+  </defs>
+  <rect class="st79" x="3020.4" y="10" width="1739.9" height="121.8"/>
+  <rect class="st55" x="2485.5" y="1603.1" width="1991.8" height="1014.3"/>
+  <rect class="st32" x="6.6" y="7" width="4756.7" height="1356.1"/>
+  <g class="st85">
+    <path class="st46" d="M1064.2,557V206.6l274.8,70.1v210.2l-274.8,70.1Z"/>
+    <rect class="st54" x="1454.1" y="231.8" width="96.2" height="99.5"/>
+    <rect class="st47" x="1454.1" y="331.4" width="96.2" height="99.5"/>
+    <rect class="st40" x="1454.1" y="430.9" width="96.2" height="100.8"/>
+    <g class="st2">
+      <text class="st4" transform="translate(1094.6 398.5) scale(.9 1)"><tspan x="0" y="0">Encoder</tspan></text>
+    </g>
+    <path class="st48" d="M1064.2,1266.3v-350.4l273.5,70.1v210.2l-273.5,70.1Z"/>
+    <text class="st4" transform="translate(1089.9 1112.5) scale(1 1)"><tspan x="0" y="0">Encoder</tspan></text>
+    <path class="st76" d="M2151.3,1113.1l.5-2.3c1.3-.4,2.2-1,2.8-1.9"/>
+    <rect class="st41" x="1454.1" y="940.5" width="96.2" height="100.8"/>
+    <rect class="st51" x="1454.1" y="1041.4" width="96.2" height="99.5"/>
+    <rect class="st27" x="1454.1" y="1140.9" width="96.2" height="100.8"/>
+    <rect class="st54" x="2382.9" y="231.8" width="96.2" height="100.8"/>
+    <rect class="st47" x="2382.9" y="331.4" width="96.2" height="99.5"/>
+    <rect class="st40" x="2382.9" y="430.9" width="96.2" height="100.8"/>
+    <rect class="st41" x="2382.9" y="940.5" width="96.2" height="100.8"/>
+    <rect class="st51" x="2382.9" y="1040.1" width="96.2" height="100.8"/>
+    <rect class="st27" x="2382.9" y="1140.9" width="96.2" height="100.8"/>
+    <rect class="st41" x="2579.2" y="625.3" width="67.4" height="72.4"/>
+    <rect class="st55" x="2646.7" y="625.3" width="67.4" height="72.4"/>
+    <rect class="st52" x="2714.1" y="625.3" width="68.7" height="72.4"/>
+    <rect class="st52" x="2579.2" y="697.7" width="67.4" height="71.1"/>
+    <rect class="st53" x="2646.7" y="697.7" width="67.4" height="71.1"/>
+    <rect class="st41" x="2714.1" y="697.7" width="68.7" height="71.1"/>
+    <rect class="st45" x="2579.2" y="768.8" width="67.4" height="72.4"/>
+    <rect class="st41" x="2646.7" y="768.8" width="67.4" height="72.4"/>
+    <rect class="st56" x="2714.1" y="768.8" width="68.7" height="72.4"/>
+    <rect class="st44" x="2900.3" y="231.2" width="96.2" height="100.8"/>
+    <rect class="st52" x="2900.3" y="330.7" width="96.2" height="100.8"/>
+    <rect class="st41" x="2900.3" y="431.6" width="96.2" height="100.8"/>
+    <rect class="st55" x="2899.5" y="940.5" width="96.2" height="100.8"/>
+    <rect class="st52" x="2899.5" y="1040.1" width="96.2" height="100.8"/>
+    <rect class="st50" x="2899.5" y="1140.9" width="96.2" height="100.8"/>
+    <path class="st57" d="M3128.2,359.9c0-42.8,29.7-77.4,66.4-77.4h265.6c36.7,0,66.4,34.7,66.4,77.4v756.6c0,42.8-29.7,77.4-66.4,77.4h-265.6c-36.7,0-66.4-34.7-66.4-77.4V359.9Z"/>
+    <path class="st37" d="M3128.3,416.8"/>
+    <path class="st37" d="M3142.8,710.2"/>
+    <path class="st37" d="M3183.8,663.3"/>
+    <rect class="st52" x="3642.1" y="231.8" width="96.2" height="100.8"/>
+    <rect class="st53" x="3642.1" y="331.4" width="96.2" height="100.8"/>
+    <rect class="st41" x="3642.1" y="432.2" width="96.2" height="99.5"/>
+    <rect class="st52" x="3643.9" y="940.5" width="96.2" height="100.8"/>
+    <rect class="st53" x="3643.9" y="1040" width="96.2" height="100.8"/>
+    <rect class="st50" x="3643.9" y="1140.9" width="96.2" height="100.8"/>
+    <rect class="st54" x="3850.9" y="185.8" width="96.2" height="386.5"/>
+    <text class="st5" transform="translate(3876.6 252.3) rotate(90) scale(1 1)"><tspan x="0" y="0">Classifier</tspan></text>
+    <path class="st48" d="M1664.1,1007.6c0-23.1,18.1-41.8,40.4-41.8h287.7c22.3,0,40.4,18.7,40.4,41.8v167.2c0,23.1-18.1,41.8-40.4,41.8h-287.7c-22.3,0-40.4-18.7-40.4-41.8v-167.2Z"/>
+    <path class="st74" d="M290.2,634.4c0-13.6,10.6-24.6,23.7-24.6s23.7,11,23.7,24.6-10.6,24.6-23.7,24.6-23.7-11-23.7-24.6Z"/>
+    <path class="st74" d="M282.7,671c0-5.2,4.7-9.4,10.4-9.4h41.6c5.7,0,10.4,4.2,10.4,9.4v92.3c0,5.2-4.7,9.4-10.4,9.4h-41.6c-5.7,0-10.4-4.2-10.4-9.4v-92.3Z"/>
+    <path class="st74" d="M281,668.9c2-4.3,6.9-6,10.9-3.8h0c4,2.2,5.6,7.4,3.5,11.7l-34.9,73.1c-2,4.3-6.9,6-10.9,3.8h0c-4-2.2-5.6-7.4-3.5-11.7l34.9-73.1Z"/>
+    <path class="st74" d="M347.1,669.5c-2.1-4.2-7-5.9-11-3.8h0c-4,2.1-5.6,7.3-3.5,11.5l35.8,72.5c2.1,4.2,7,5.9,11,3.8h0c4-2.1,5.6-7.3,3.5-11.5l-35.8-72.5Z"/>
+    <path class="st74" d="M282.7,762.5c0-7.9,5-14.4,11.2-14.4h0c6.2,0,11.2,6.4,11.2,14.4v104.4c0,7.9-5,14.4-11.2,14.4h0c-6.2,0-11.2-6.4-11.2-14.4v-104.4Z"/>
+    <path class="st74" d="M322.6,762.6c0-8,5-14.5,11.2-14.5h0c6.2,0,11.2,6.5,11.2,14.5v104.2c0,8-5,14.5-11.2,14.5h0c-6.2,0-11.2-6.5-11.2-14.5v-104.2Z"/>
+    <g class="st80">
+      <path class="st73" d="M309.4,479.7c139.9,0,253.4,117.4,253.4,262.3s-11.7,91.3-33.9,131.1l-54.9-32.8c52.5-94.1,21.3-214.4-69.6-268.7-28.9-17.3-61.7-26.4-95-26.4v-65.6Z"/>
+    </g>
+    <g class="st83">
+      <path class="st77" d="M528.8,873.1c-70,125.4-224.9,168.4-346.1,96-38.5-23-70.5-56.1-92.7-96l54.9-32.8c52.5,94.1,168.7,126.3,259.6,72,28.9-17.3,52.9-42.1,69.6-72l54.9,32.8Z"/>
+    </g>
+    <g class="st81">
+      <path class="st75" d="M90,873.1c-70-125.4-28.4-285.9,92.7-358.3,38.5-23,82.2-35.1,126.7-35.1v65.6c-105,0-190,88.1-190,196.7s8.8,68.5,25.5,98.4l-54.9,32.8Z"/>
+    </g>
+    <path class="st76" d="M84.8,771.4c-.6-1.7-.8-3.3-.5-4.8.2-1.5.9-2.9,2-4.3-1.8-.7-3.3-1.5-4.4-2.6-1.2-1.1-2-2.4-2.5-4-.7-2-.9-3.8-.6-5.4.3-1.6,1.1-3.1,2.3-4.3.9-.9,2.6-1.8,5.1-2.7l16.5-6.2,2.5,7.1-14.8,5.6c-2.6,1-4.1,1.8-4.7,2.6-.7,1-.9,2.2-.4,3.6.3,1,1,1.8,1.9,2.5.9.7,2,1,3.2.9,1.3,0,3.1-.5,5.5-1.4l12.4-4.7,2.5,7.1-14.1,5.3c-2.5.9-4.1,1.7-4.7,2.2-.6.5-1,1.1-1.2,1.8-.2.7,0,1.4.2,2.4.4,1.1,1,2,1.9,2.6.9.7,1.9,1,3.1,1,1.2,0,3-.5,5.5-1.4l12.5-4.7,2.5,7.1-25.8,9.7-2.3-6.5,3.5-1.3c-3.6-1.3-5.9-3.6-7-6.8Z"/>
+    <path class="st76" d="M84.4,720.2c-.1,1.6.3,3,1.4,4.2,1.1,1.2,2.6,1.9,4.5,2l1-11.2c-2.1-.1-3.7.3-4.9,1.2-1.2,1-1.8,2.2-2,3.7ZM78.8,720.1c.4-4.2,2-7.4,4.9-9.6s7.1-2.9,12.7-2.3l-1.7,18.8c2.2.2,3.9-.3,5.2-1.3,1.3-1,2-2.4,2.2-4.1.1-1.2-.1-2.2-.7-3-.5-.9-1.5-1.6-2.8-2.1l1.9-7.3c2.6,1.2,4.4,2.9,5.6,5.1,1.2,2.2,1.7,4.9,1.4,8-.4,4.9-2.3,8.4-5.6,10.5-2.7,1.6-5.9,2.3-9.7,1.9-4.5-.4-8-2-10.3-4.7-2.3-2.7-3.3-5.9-3-9.7Z"/>
+    <path class="st76" d="M74.7,688.9l9.4,2.3,1.1-5,5.6,1.4-1.1,5,10.8,2.6c2.2.5,3.5.8,3.8.8.4,0,.7-.2,1-.4.3-.3.5-.7.6-1.2.2-.7.1-1.7,0-3.1l5.6.7c.3,1.9.2,3.9-.2,6-.3,1.3-.8,2.5-1.4,3.4-.7,1-1.4,1.6-2.2,1.9-.8.3-1.8.5-3,.4-.9,0-2.5-.4-5-1l-11.7-2.8-.8,3.4-5.6-1.4.8-3.4-5.3-1.3-2.5-8.3Z"/>
+    <path class="st76" d="M77.2,675.6l2.4-7.1,13.2,4.8c-1.8-3.2-2.2-6.4-1.1-9.6.6-1.6,1.3-3,2.4-4.1,1-1.1,2.1-1.8,3.2-2.2,1.1-.3,2.3-.4,3.5-.3,1.2.2,2.9.7,5.3,1.5l15.2,5.5-2.4,7.1-13.7-5c-2.7-1-4.5-1.5-5.3-1.5-.8,0-1.6.3-2.2.8-.7.5-1.2,1.3-1.5,2.3-.4,1.2-.5,2.3-.2,3.5.2,1.1.8,2.1,1.8,2.9,1,.8,2.5,1.6,4.7,2.4l13,4.7-2.4,7.1-35.8-13Z"/>
+    <path class="st76" d="M97.5,649.2l3.4-7.2,20.4,2.6-14.8-14.7,3.3-7,19.6,20.9,3.6,3.8c1.2,1.3,2,2.4,2.5,3.4.5.9.8,1.8,1,2.8.1.9.1,2,0,3.1-.2,1.2-.6,2.4-1.2,3.7-.6,1.3-1.3,2.5-2.2,3.6l-5.4-2c.7-1,1.2-1.9,1.6-2.7.7-1.6.8-3,.3-4.2-.5-1.2-1.4-2.3-2.6-3.4l-29.3-2.6Z"/>
+    <path class="st76" d="M103.6,612.6l3.6-6.5,32.8,19.7-3.6,6.5-32.8-19.7Z"/>
+    <path class="st76" d="M141,599.3c-.3,1-.8,2.4-1.6,4.4-.8,2-1.2,3.3-1.2,4.1,0,1.2.4,2.1,1.3,2.7.8.6,1.8.8,2.8.6,1-.2,1.9-.8,2.6-1.8.7-1.1,1.1-2.4,1.1-4,0-1.1-.4-2.1-1-2.9-.4-.5-1.3-1.3-2.7-2.3l-1.2-.9ZM126.3,594.3c1.8-2.8,3.5-4.6,5.1-5.5,1.5-.9,3-1.3,4.3-1.1,1.3.1,3.3,1.1,5.9,3l6.9,5.1c2,1.4,3.5,2.4,4.6,2.9,1.1.5,2.3.8,3.8,1.1l-4.1,6.1c-.5-.1-1.2-.3-2.2-.7-.4-.2-.7-.2-.8-.3.3,1.8.3,3.4,0,5-.3,1.6-.9,3-1.8,4.4-1.6,2.4-3.5,3.8-5.7,4.3-2.2.5-4.2,0-6.2-1.4-1.3-.9-2.2-2-2.8-3.4-.6-1.3-.8-2.8-.5-4.3.2-1.5.9-3.5,1.9-5.9,1.4-3.3,2.3-5.6,2.6-7.1l-.6-.4c-1.1-.8-2.2-1.1-3-.9-.9.2-1.9,1.2-3,2.8-.7,1.1-1.1,2.1-1.1,3,0,.9.4,1.9,1.2,3.1l-4.7,4.9c-1.8-2.2-2.6-4.4-2.7-6.7,0-2.3,1-5,3-8Z"/>
+    <path class="st76" d="M136.3,565.6l7.4,6.5,3.2-3.9,4.4,3.9-3.2,3.9,8.4,7.4c1.7,1.5,2.7,2.3,3.1,2.5.3.2.7.2,1.1.1.4-.1.8-.3,1.1-.7.4-.5.9-1.5,1.4-2.8l4.7,3.3c-.5,1.8-1.5,3.6-2.9,5.3-.9,1-1.8,1.8-2.8,2.3-1,.5-2,.8-2.8.7-.8,0-1.8-.4-2.8-1.1-.7-.4-2.1-1.5-4-3.3l-9.1-8-2.2,2.6-4.4-3.9,2.2-2.6-4.2-3.7,1.5-8.6Z"/>
+    <path class="st76" d="M151.6,563.2l5.2-5.3,19.3,20.2-5.2,5.3-19.3-20.2ZM144.2,555.6l5.2-5.3,4.7,4.9-5.2,5.3-4.7-4.9Z"/>
+    <path class="st76" d="M177.2,547.6c-1.6,1.1-2.4,2.7-2.7,4.7-.2,2,.4,4.1,2,6.5,1.6,2.3,3.3,3.7,5.2,4.1,1.9.5,3.6.1,5.2-1,1.6-1.1,2.4-2.7,2.7-4.7.2-2-.5-4.2-2-6.5-1.5-2.3-3.3-3.6-5.1-4.1-1.9-.5-3.6-.1-5.2,1ZM173.8,542.6c3.4-2.5,7-3.4,10.7-2.6,3.7.7,6.8,2.8,9.1,6.3,2.4,3.5,3.3,7.2,2.6,11.1-.6,3.9-2.6,7.1-5.9,9.5-2.1,1.5-4.4,2.4-6.9,2.8-2.5.4-4.9,0-7.1-1.1-2.2-1.2-4.3-3.1-6.1-5.7-1.4-2-2.2-4.4-2.6-7-.3-2.6,0-5.1,1.2-7.4,1.1-2.3,2.8-4.3,5-5.9Z"/>
+    <path class="st76" d="M214.7,526.2c1.6-.2,3.1,0,4.5.4,1.4.5,2.4,1.1,3.2,2,.8.9,1.3,1.9,1.7,3,.4,1.1.7,2.8.9,5l1.7,17.6-7.2.7-1.4-14.4c-.3-3.1-.6-5-1-5.9-.4-.9-1-1.5-1.7-1.9-.7-.4-1.6-.6-2.6-.5-1.3.1-2.3.6-3.3,1.4-.9.8-1.5,1.8-1.8,3-.3,1.2-.2,3.4,0,6.6l1.2,12.8-7.2.7-2.7-28.3,6.7-.7.4,4.2c2.1-3.4,4.9-5.3,8.5-5.7Z"/>
+    <path class="st76" d="M437.5,538.4c1.4,1.3,2.4,2.7,3,4.3.6,1.6.7,3.3.3,5.1,2-.4,3.9-.3,5.5,0,1.7.4,3.1,1.2,4.5,2.3,1.7,1.5,2.8,3.1,3.3,4.8.6,1.7.6,3.5,0,5.4-.4,1.4-1.5,3.2-3.4,5.4l-12.4,15-6-5.3,11.1-13.4c1.9-2.3,3-4,3.1-5,.2-1.4-.3-2.6-1.5-3.6-.8-.7-1.8-1.2-3-1.3-1.2-.1-2.4.2-3.5.9-1.2.7-2.7,2.2-4.5,4.4l-9.3,11.2-6-5.3,10.6-12.8c1.9-2.3,3-3.8,3.3-4.7.3-.9.4-1.6.2-2.4-.2-.7-.7-1.4-1.4-2.1-.9-.8-2-1.3-3.1-1.4-1.2-.1-2.3.1-3.4.8-1.1.7-2.6,2.2-4.5,4.4l-9.4,11.4-6-5.3,19.4-23.4,5.5,4.9-2.6,3.2c4-.7,7.4.1,10.1,2.5Z"/>
+    <path class="st76" d="M464,565.9l5.2,6.2-22.5,20.2-5.2-6.2,22.5-20.2ZM472.6,558.2l5.2,6.2-5.5,4.9-5.2-6.2,5.5-4.9Z"/>
+    <path class="st76" d="M484,584.2l-8.6,6.2,3.5,5.2c2.3,3.4,3.8,5.4,4.7,6,.8.6,1.8,1,2.8,1,1,0,2-.4,3-1.1,1.1-.8,1.8-1.8,2.1-2.9.3-1.1.1-2.3-.5-3.6-.3-.6-1.4-2.4-3.3-5.2l-3.7-5.5ZM485,573l10,14.9c2.5,3.7,4,6.7,4.6,8.8.5,2.1.4,4.3-.5,6.4-.9,2.1-2.3,3.9-4.3,5.4-2.5,1.8-5.1,2.6-7.8,2.2-2.7-.4-5.3-1.9-7.8-4.7.2,2.1,0,4.1-.3,5.8-.4,1.7-1.3,4.4-2.8,8l-3.7,9-5.7-8.4,3.9-10.4c1.4-3.7,2.2-6.1,2.5-7.3.2-1.2.2-2.2,0-3.1-.2-.9-.9-2.2-2-3.8l-1-1.4-14.1,10.1-4.7-7.1,33.8-24.3Z"/>
+    <path class="st76" d="M510.5,612.6l3.6,7.5-17.2,28.2,24.6-12.6,3.4,7.2-36.9,18.9-3.7-7.7,16.7-27.7-24,12.3-3.4-7.2,36.9-18.9Z"/>
+    <path class="st76" d="M525.4,675.5l-16.2-1.3,3,11.2,13.2-9.9ZM533.5,668.6l2.3,8.8-35.3,27.7-2.4-9,8.1-6.2-4.4-16.4-9.9-.8-2.3-8.8,43.9,4.7Z"/>
+    <text class="st1" transform="translate(232 990.3) scale(1 1)"><tspan x="0" y="0">mRNA</tspan></text>
+    <path class="st43" d="M624.9,911.5"/>
+    <path class="st43" d="M558.1,746"/>
+    <path class="st42" d="M645.3,382.8v708.3"/>
+    <path class="st46" d="M1663.5,308.6c0-23,18-41.6,40.2-41.6h289.3c22.2,0,40.2,18.6,40.2,41.6v166.3c0,23-18,41.6-40.2,41.6h-289.3c-22.2,0-40.2-18.6-40.2-41.6v-166.3Z"/>
+    <line class="st29" x1="562.7" y1="737" x2="645.3" y2="737"/>
+    <g>
+      <line class="st10" x1="643.4" y1="381.8" x2="714.9" y2="381.8"/>
+      <polygon class="st66" points="743.2 381.8 703.4 398 712.8 381.8 703.4 365.5 743.2 381.8"/>
+    </g>
+    <g>
+      <line class="st10" x1="643.4" y1="1091.2" x2="714.9" y2="1091.2"/>
+      <polygon class="st66" points="743.2 1091.2 703.4 1107.4 712.8 1091.2 703.4 1074.9 743.2 1091.2"/>
+    </g>
+    <text/>
+    <path class="st29" d="M1044.2,1086"/>
+    <g>
+      <rect class="st16" x="750.9" y="430.9" width="35.4" height="49.1"/>
+      <rect class="st20" x="750.9" y="381.8" width="35.4" height="49.1"/>
+      <rect class="st20" x="750.9" y="332.7" width="35.4" height="49.1"/>
+      <rect class="st17" x="750.9" y="283.6" width="35.4" height="49.1"/>
+      <rect class="st21" x="786.3" y="430.9" width="35.4" height="49.1"/>
+      <rect class="st20" x="786.3" y="381.8" width="35.4" height="49.1"/>
+      <rect class="st17" x="786.3" y="332.7" width="35.4" height="49.1"/>
+      <rect class="st20" x="786.3" y="283.6" width="35.4" height="49.1"/>
+      <rect class="st21" x="821.7" y="430.9" width="35.4" height="49.1"/>
+      <rect class="st21" x="821.7" y="381.8" width="35.4" height="49.1"/>
+      <rect class="st17" x="821.7" y="332.7" width="35.4" height="49.1"/>
+      <rect class="st24" x="821.7" y="283.6" width="35.4" height="49.1"/>
+      <rect class="st20" x="857.1" y="430.9" width="35.4" height="49.1"/>
+      <rect class="st20" x="857.1" y="381.8" width="35.4" height="49.1"/>
+      <rect class="st24" x="857.1" y="332.7" width="35.4" height="49.1"/>
+      <rect class="st26" x="857.1" y="283.6" width="35.4" height="49.1"/>
+      <rect class="st17" x="892.5" y="430.9" width="35.4" height="49.1"/>
+      <rect class="st21" x="892.5" y="381.8" width="35.4" height="49.1"/>
+      <rect class="st20" x="892.5" y="332.7" width="35.4" height="49.1"/>
+      <rect class="st24" x="892.5" y="283.6" width="35.4" height="49.1"/>
+      <rect class="st26" x="927.9" y="430.9" width="35.4" height="49.1"/>
+      <rect class="st18" x="927.9" y="381.8" width="35.4" height="49.1"/>
+      <rect class="st20" x="927.9" y="332.7" width="35.4" height="49.1"/>
+      <rect class="st18" x="927.9" y="283.6" width="35.4" height="49.1"/>
+    </g>
+    <g>
+      <path class="st29" d="M936.8,1096.7"/>
+      <rect class="st12" x="750.9" y="1140.2" width="35.4" height="49.1"/>
+      <rect class="st7" x="750.9" y="1091.2" width="35.4" height="49.1"/>
+      <rect class="st15" x="750.9" y="1042.1" width="35.4" height="49.1"/>
+      <rect class="st23" x="750.9" y="993" width="35.4" height="49.1"/>
+      <rect class="st25" x="786.3" y="1140.2" width="35.4" height="49.1"/>
+      <rect class="st22" x="786.3" y="1091.2" width="35.4" height="49.1"/>
+      <rect class="st19" x="786.3" y="1042.1" width="35.4" height="49.1"/>
+      <rect class="st23" x="786.3" y="993" width="35.4" height="49.1"/>
+      <rect class="st13" x="821.7" y="1140.2" width="35.4" height="49.1"/>
+      <rect class="st19" x="821.7" y="1091.2" width="35.4" height="49.1"/>
+      <rect class="st23" x="821.7" y="1042.1" width="35.4" height="49.1"/>
+      <rect class="st9" x="821.7" y="993" width="35.4" height="49.1"/>
+      <rect class="st9" x="857.1" y="1140.2" width="35.4" height="49.1"/>
+      <rect class="st14" x="857.1" y="1091.2" width="35.4" height="49.1"/>
+      <rect class="st23" x="857.1" y="1042.1" width="35.4" height="49.1"/>
+      <rect class="st19" x="857.1" y="993" width="35.4" height="49.1"/>
+      <rect class="st19" x="892.5" y="1140.2" width="35.4" height="49.1"/>
+      <rect class="st15" x="892.5" y="1091.2" width="35.4" height="49.1"/>
+      <rect class="st9" x="892.5" y="1042.1" width="35.4" height="49.1"/>
+      <rect class="st9" x="892.5" y="993" width="35.4" height="49.1"/>
+      <rect class="st19" x="927.9" y="1140.2" width="35.4" height="49.1"/>
+      <rect class="st28" x="927.9" y="1091.2" width="35.4" height="49.1"/>
+      <rect class="st28" x="927.9" y="1042.1" width="35.4" height="49.1"/>
+      <rect class="st9" x="927.9" y="993" width="35.4" height="49.1"/>
+    </g>
+    <text/>
+    <text/>
+    <g>
+      <line class="st10" x1="1340.2" y1="381.8" x2="1411.8" y2="381.8"/>
+      <polygon class="st66" points="1440 381.8 1400.2 398 1409.7 381.8 1400.2 365.5 1440 381.8"/>
+    </g>
+    <g>
+      <line class="st10" x1="1338.9" y1="1091.2" x2="1410.5" y2="1091.2"/>
+      <polygon class="st66" points="1438.8 1091.2 1399 1107.4 1408.4 1091.2 1399 1074.9 1438.8 1091.2"/>
+    </g>
+    <g>
+      <line class="st10" x1="1551.5" y1="381.8" x2="1623.1" y2="381.8"/>
+      <polygon class="st66" points="1651.3 381.8 1611.5 398 1621 381.8 1611.5 365.5 1651.3 381.8"/>
+    </g>
+    <g>
+      <line class="st10" x1="2481" y1="379" x2="2870" y2="379"/>
+      <polygon class="st66" points="2898.2 379 2858.4 395.3 2867.9 379 2858.4 362.8 2898.2 379"/>
+    </g>
+    <text class="st65" transform="translate(1714.3 343.4)"><tspan x="0" y="0">Omics </tspan><tspan x="0" y="71.4">Specific</tspan><tspan x="0" y="142.7">Classifier</tspan></text>
+    <g>
+      <line class="st10" x1="1551.5" y1="1091.2" x2="1623.1" y2="1091.2"/>
+      <polygon class="st66" points="1651.3 1091.2 1611.5 1107.4 1621 1091.2 1611.5 1074.9 1651.3 1091.2"/>
+    </g>
+    <text class="st65" transform="translate(1714.3 1040.4)"><tspan x="0" y="0">Omics </tspan><tspan x="0" y="71.4">Specific</tspan><tspan x="0" y="142.7">Classifier</tspan></text>
+    <g>
+      <line class="st10" x1="2035.4" y1="381.8" x2="2106.9" y2="381.8"/>
+      <polygon class="st66" points="2135.2 381.8 2095.4 398 2104.8 381.8 2095.4 365.5 2135.2 381.8"/>
+    </g>
+    <g>
+      <line class="st10" x1="2035.4" y1="1091.2" x2="2106.9" y2="1091.2"/>
+      <polygon class="st66" points="2135.2 1091.2 2095.4 1107.4 2104.8 1091.2 2095.4 1074.9 2135.2 1091.2"/>
+    </g>
+    <g>
+      <line class="st10" x1="2487.4" y1="1091.2" x2="2859.3" y2="1091.2"/>
+      <polygon class="st66" points="2887.5 1091.2 2847.7 1107.4 2857.1 1091.2 2847.7 1074.9 2887.5 1091.2"/>
+    </g>
+    <text class="st65" transform="translate(3224 731.5)"><tspan x="0" y="0">Feature</tspan><tspan x="0" y="71.4">Fusion</tspan></text>
+    <text/>
+    <text/>
+    <text class="st67" transform="translate(1489.7 2393.5) scale(.9 1)"><tspan x="0" y="0">...</tspan></text>
+    <text/>
+    <text class="st67" transform="translate(1803.6 2258.8) scale(.9 1)"><tspan x="0" y="0">...</tspan></text>
+    <polyline class="st11" points="1779 1829.9 1586.7 2251.4 1778.2 1983 1586.2 2492.2"/>
+    <polygon class="st11" points="1779 2363.8 1587.7 1789.4 1779 2138.9 1589.3 2483.7 1779 2363.8 1587.5 1943.9 1779 1829.9 1779 1829.9 1587.5 2098.4 1779 1984.4 1587.5 1634.9 1587.5 1634.9 1779 2138.9 1587.5 2252.9 1779 2363.8 1587.5 2098.4 1779 2138.9 1587.5 1943.9 1779 1984.4 1587.5 1789.4 1779 1829.9 1587.5 1634.9 1779 2363.8"/>
+    <line class="st11" x1="1586.2" y1="2488.1" x2="1779" y2="1829.9"/>
+    <ellipse class="st8" cx="1525.4" cy="1633.5" rx="61.2" ry="62.2"/>
+    <ellipse class="st8" cx="1525.4" cy="1788" rx="61.2" ry="62.2"/>
+    <ellipse class="st8" cx="1525.4" cy="1942.5" rx="61.2" ry="62.2"/>
+    <ellipse class="st8" cx="1525.4" cy="2497" rx="61.2" ry="62.2"/>
+    <ellipse class="st8" cx="1525.4" cy="2096.9" rx="61.2" ry="62.2"/>
+    <ellipse class="st8" cx="1525.4" cy="2251.4" rx="61.2" ry="62.2"/>
+    <ellipse class="st8" cx="1839.4" cy="1828.5" rx="61.2" ry="62.2"/>
+    <ellipse class="st8" cx="1839.4" cy="1983" rx="61.2" ry="62.2"/>
+    <ellipse class="st8" cx="1839.4" cy="2137.5" rx="61.2" ry="62.2"/>
+    <ellipse class="st8" cx="1839.4" cy="2362.3" rx="61.2" ry="62.2"/>
+    <polyline class="st11" points="1900.6 1828.5 2092.1 2034.8 1900.6 1983"/>
+    <polyline class="st11" points="1900.6 2137.5 2092.1 2034.8 1900.6 2362.3"/>
+    <ellipse class="st8" cx="2153.4" cy="2034.8" rx="61.2" ry="62.2"/>
+    <rect class="st49" x="3850.9" y="897.9" width="96.2" height="386.5"/>
+    <text class="st5" transform="translate(3876.6 964.5) rotate(90) scale(1 1)"><tspan x="0" y="0">Classifier</tspan></text>
+    <text/>
+    <text class="st61" transform="translate(2140.6 398.1) scale(1 1)"><tspan x="0" y="0">Loss</tspan></text>
+    <text class="st59" transform="translate(2275.8 424.2) scale(.6)"><tspan x="0" y="0">1</tspan></text>
+    <text/>
+    <text/>
+    <text/>
+    <text class="st61" transform="translate(2143.2 1110.2) scale(1 1)"><tspan x="0" y="0">Loss</tspan></text>
+    <text class="st59" transform="translate(2278.4 1136.3) scale(.6)"><tspan x="0" y="0">2</tspan></text>
+    <text/>
+    <text/>
+    <text/>
+    <path class="st33" d="M2998.9,383.8"/>
+    <g>
+      <line class="st10" x1="3000.5" y1="379" x2="3072" y2="379"/>
+      <polygon class="st66" points="3100.3 379 3060.5 395.3 3069.9 379 3060.5 362.8 3100.3 379"/>
+    </g>
+    <g>
+      <line class="st10" x1="3000.5" y1="1091.1" x2="3072" y2="1091.1"/>
+      <polygon class="st66" points="3100.3 1091.1 3060.5 1107.4 3069.9 1091.1 3060.5 1074.8 3100.3 1091.1"/>
+    </g>
+    <text class="st61" transform="translate(1457.6 610.6) scale(1 1)"><tspan x="0" y="0">E</tspan></text>
+    <text class="st64" transform="translate(1496.2 636.7) scale(.6)"><tspan x="0" y="0">omics1</tspan></text>
+    <text class="st61" transform="translate(1457.3 1305.1) scale(1 1)"><tspan x="0" y="0">E</tspan></text>
+    <text class="st64" transform="translate(1495.9 1331.3) scale(.6)"><tspan x="0" y="0">omics2</tspan></text>
+    <text class="st61" transform="translate(3650.7 610.6) scale(1 1)"><tspan x="0" y="0">E</tspan></text>
+    <text class="st59" transform="translate(3689.3 636.7) scale(.6)"><tspan x="0" y="0">fusion1</tspan></text>
+    <text class="st61" transform="translate(3650.4 1305.1) scale(1 1)"><tspan x="0" y="0">E</tspan></text>
+    <text class="st59" transform="translate(3689 1331.3) scale(.6)"><tspan x="0" y="0">fusion2</tspan></text>
+  </g>
+  <text/>
+  <g>
+    <path class="st31" d="M1549.9,544.2c67.2,46.6,174.2,92,413.2,95.6,198.5,3,330.6-51.6,385.1-79.6"/>
+    <polygon class="st84" points="2376.3 544.2 2345.6 582.8 2346 561.3 2327.4 550.3 2376.3 544.2"/>
+  </g>
+  <g>
+    <path class="st31" d="M2349,910.7c-68.7-39.9-176.8-75-385.9-78.2-266.3-4-413.2,95.6-413.2,95.6"/>
+    <polygon class="st84" points="2376.3 928 2347.5 888 2346.8 909.6 2327.8 919.6 2376.3 928"/>
+  </g>
+  <line class="st30" x1="2516.6" y1="477" x2="2516.6" y2="989.5"/>
+  <line class="st30" x1="2479.7" y1="477" x2="2518.9" y2="477"/>
+  <line class="st30" x1="2479.7" y1="989.5" x2="2518.9" y2="989.5"/>
+  <g>
+    <line class="st39" x1="2681" y1="384" x2="2681" y2="625.8"/>
+    <polygon points="2662.3 399.2 2665.6 402.3 2681 385.8 2696.4 402.3 2699.8 399.2 2681 379 2662.3 399.2"/>
+  </g>
+  <line class="st30" x1="968.3" y1="381.8" x2="1061.9" y2="381.8"/>
+  <g>
+    <line class="st39" x1="2681" y1="1085" x2="2681" y2="843.2"/>
+    <polygon points="2699.8 1069.9 2696.4 1066.7 2681 1083.3 2665.6 1066.7 2662.3 1069.9 2681 1090 2699.8 1069.9"/>
+  </g>
+  <text class="st62" transform="translate(2686.5 545.4)"><tspan x="0" y="0">similarity</tspan><tspan x="29.2" y="50.4">matrix</tspan></text>
+  <text/>
+  <line class="st34" x1="3091.9" y1="429.5" x2="3127.9" y2="392.9"/>
+  <line class="st34" x1="3127.9" y1="365.2" x2="3091.9" y2="328.5"/>
+  <rect class="st68" x="3115" y="365.2" width="15.5" height="27.7"/>
+  <g>
+    <line class="st34" x1="3091.9" y1="1141.7" x2="3127.9" y2="1105"/>
+    <line class="st34" x1="3127.9" y1="1077.3" x2="3091.9" y2="1040.6"/>
+    <rect class="st68" x="3115" y="1077.3" width="15.5" height="27.7"/>
+  </g>
+  <g>
+    <line class="st10" x1="3524.3" y1="379" x2="3595.9" y2="379"/>
+    <polygon class="st66" points="3624.1 379 3584.4 395.3 3593.8 379 3584.4 362.8 3624.1 379"/>
+  </g>
+  <g>
+    <line class="st10" x1="3524.3" y1="1091.2" x2="3595.9" y2="1091.2"/>
+    <polygon class="st66" points="3624.1 1091.2 3584.4 1107.4 3593.8 1091.2 3584.4 1074.9 3624.1 1091.2"/>
+  </g>
+  <g>
+    <line class="st10" x1="3740.1" y1="379" x2="3811.7" y2="379"/>
+    <polygon class="st66" points="3840 379 3800.2 395.3 3809.6 379 3800.2 362.8 3840 379"/>
+  </g>
+  <g>
+    <line class="st10" x1="3740.1" y1="1091.2" x2="3811.7" y2="1091.2"/>
+    <polygon class="st66" points="3840 1091.2 3800.2 1107.4 3809.6 1091.2 3800.2 1074.9 3840 1091.2"/>
+  </g>
+  <g>
+    <line class="st10" x1="3947.9" y1="379" x2="4019.5" y2="379"/>
+    <polygon class="st66" points="4047.7 379 4007.9 395.3 4017.3 379 4007.9 362.8 4047.7 379"/>
+  </g>
+  <g>
+    <line class="st10" x1="3947.9" y1="1091.2" x2="4019.5" y2="1091.2"/>
+    <polygon class="st66" points="4047.7 1091.2 4007.9 1107.4 4017.3 1091.2 4007.9 1074.9 4047.7 1091.2"/>
+  </g>
+  <text class="st61" transform="translate(4046.4 398.1) scale(1 1)"><tspan x="0" y="0">Loss</tspan></text>
+  <text class="st59" transform="translate(4181.5 424.2) scale(.6)"><tspan x="0" y="0">f1</tspan></text>
+  <text class="st61" transform="translate(4049 1110.2) scale(1 1)"><tspan x="0" y="0">Loss</tspan></text>
+  <text class="st59" transform="translate(4184.1 1136.3) scale(.6)"><tspan x="0" y="0">f2</tspan></text>
+  <line class="st30" x1="4327.3" y1="377" x2="4327.3" y2="1092.1"/>
+  <g>
+    <line class="st30" x1="4286.4" y1="736.5" x2="4441.5" y2="736.5"/>
+    <polygon points="4461.2 736.5 4433.4 747.9 4440 736.5 4433.4 725.1 4461.2 736.5"/>
+  </g>
+  <text class="st61" transform="translate(4461.2 755.1) scale(1 1)"><tspan x="0" y="0">Loss</tspan></text>
+  <text class="st59" transform="translate(4596.4 781.2) scale(.6)"><tspan x="0" y="0">fusion</tspan></text>
+  <text/>
+  <line class="st30" x1="4230.7" y1="379" x2="4329.6" y2="379"/>
+  <line class="st30" x1="4230.7" y1="1091.2" x2="4329.6" y2="1091.2"/>
+  <ellipse class="st30" cx="4326.5" cy="736.5" rx="39.7" ry="40.3"/>
+  <path class="st38" d="M1404.1,1683.7c0-110,64.1-199.1,143.2-199.1h572.8c79.1,0,143.2,89.1,143.2,199.1v869.4c0,110-64.1,199.1-143.2,199.1h-572.8c-79.1,0-143.2-89.1-143.2-199.1v-869.4Z"/>
+  <text/>
+  <text class="st6" transform="translate(1710.3 1573) scale(1 1)"><tspan x="0" y="0">Classifier</tspan></text>
+  <path class="st38" d="M161.9,1690.7c0-110,87-199.1,194.3-199.1h777.3c107.3,0,194.3,89.1,194.3,199.1v869.4c0,110-87,199.1-194.3,199.1H356.2c-107.3,0-194.3-89.1-194.3-199.1v-869.4Z"/>
+  <text class="st3" transform="translate(3181.3 1573) scale(1 1)"><tspan x="0" y="0">Feature Fusion</tspan></text>
+  <text class="st0" transform="translate(603.1 1574.3) scale(1 1)"><tspan x="0" y="0">Encoder</tspan></text>
+  <text/>
+  <text/>
+  <text/>
+  <rect class="st55" x="2592" y="1738.6" width="279.7" height="111.5" rx="27.7" ry="27.7"/>
+  <rect class="st55" x="2592" y="1937" width="279.7" height="111.5" rx="27.7" ry="27.7"/>
+  <text class="st70" transform="translate(2685.4 1808.6)"><tspan x="0" y="0">v(x)</tspan></text>
+  <text class="st70" transform="translate(2679.3 2008.7)"><tspan x="0" y="0">w(x)</tspan></text>
+  <rect class="st55" x="2592" y="2172.3" width="279.7" height="111.5" rx="27.7" ry="27.7"/>
+  <rect class="st55" x="2592" y="2370.7" width="279.7" height="111.5" rx="27.7" ry="27.7"/>
+  <text class="st70" transform="translate(2685.4 2242.3)"><tspan x="0" y="0">w(x)</tspan></text>
+  <text class="st70" transform="translate(2679.3 2440.4)"><tspan x="0" y="0">v(x)</tspan></text>
+  <text/>
+  <g>
+    <line class="st10" x1="2587.4" y1="1794.3" x2="2529.5" y2="1794.3"/>
+    <polygon class="st66" points="2574.2 1778 2571.4 1780.9 2585.9 1794.3 2571.4 1807.7 2574.2 1810.7 2591.8 1794.3 2574.2 1778"/>
+  </g>
+  <path class="st10" d="M2576.2,1991"/>
+  <g>
+    <line class="st10" x1="2587.4" y1="1992.7" x2="2422.4" y2="1992.7"/>
+    <polygon class="st66" points="2574.2 1976.4 2571.4 1979.3 2585.9 1992.7 2571.4 2006.2 2574.2 2009.1 2591.8 1992.7 2574.2 1976.4"/>
+  </g>
+  <path class="st10" d="M2529.7,1893.6"/>
+  <line class="st10" x1="2529.6" y1="1642.5" x2="2529.6" y2="1992.8"/>
+  <g>
+    <line class="st10" x1="2586.1" y1="2228" x2="2423.7" y2="2228"/>
+    <polygon class="st66" points="2572.9 2211.7 2570.2 2214.6 2584.6 2228 2570.2 2241.4 2572.9 2244.4 2590.5 2228 2572.9 2211.7"/>
+  </g>
+  <path class="st10" d="M2524.7,2383.8"/>
+  <g>
+    <line class="st10" x1="2929.7" y1="1992.7" x2="2871.8" y2="1992.7"/>
+    <polygon class="st66" points="2916.4 1976.4 2913.7 1979.3 2928.2 1992.7 2913.7 2006.2 2916.4 2009.1 2934 1992.7 2916.4 1976.4"/>
+  </g>
+  <line class="st10" x1="2872.2" y1="1794.3" x2="3834.6" y2="1794.3"/>
+  <g>
+    <line class="st10" x1="2959.7" y1="1792.5" x2="2959.7" y2="1962.1"/>
+    <polygon class="st66" points="2943.4 1948.8 2946.3 1946.1 2959.7 1960.6 2973.1 1946.1 2976.1 1948.8 2959.7 1966.4 2943.4 1948.8"/>
+  </g>
+  <circle class="st10" cx="2959.2" cy="1991" r="24.5"/>
+  <polyline class="st10" points="2942.9 1974.4 2975.9 2007.4 2976.6 2006.7"/>
+  <line class="st10" x1="2977.1" y1="1973.5" x2="2942.4" y2="2008.2"/>
+  <text class="st70" transform="translate(2983.7 1965.3) scale(1 1)"><tspan x="0" y="0">G</tspan></text>
+  <text class="st71" transform="translate(3029.7 1985.3) scale(.6)"><tspan x="0" y="0">omics1</tspan></text>
+  <circle class="st10" cx="3155.2" cy="2110.2" r="24.5"/>
+  <line class="st10" x1="3155.2" y1="2086.4" x2="3155.2" y2="2133.3"/>
+  <line class="st10" x1="3130.6" y1="2110.3" x2="3181.3" y2="2110.3"/>
+  <g>
+    <line class="st10" x1="2929.7" y1="2228" x2="2871.8" y2="2228"/>
+    <polygon class="st66" points="2916.4 2211.7 2913.7 2214.6 2928.2 2228 2913.7 2241.4 2916.4 2244.4 2934 2228 2916.4 2211.7"/>
+  </g>
+  <circle class="st10" cx="2959.2" cy="2228" r="24.5"/>
+  <polyline class="st10" points="2942.9 2211.4 2975.9 2244.4 2976.6 2243.7"/>
+  <line class="st10" x1="2977.1" y1="2210.6" x2="2942.4" y2="2245.3"/>
+  <text class="st70" transform="translate(2983.7 2286.3) scale(1 1)"><tspan x="0" y="0">G</tspan></text>
+  <text class="st71" transform="translate(3029.7 2306.3) scale(.6)"><tspan x="0" y="0">omics2</tspan></text>
+  <g>
+    <line class="st10" x1="3283.8" y1="2110.3" x2="3179.7" y2="2110.3"/>
+    <polygon class="st66" points="3270.5 2094 3267.8 2096.9 3282.2 2110.3 3267.8 2123.7 3270.5 2126.7 3288.1 2110.3 3270.5 2094"/>
+  </g>
+  <rect class="st55" x="3290.7" y="2054.6" width="197.1" height="111.5" rx="27.7" ry="27.7"/>
+  <text class="st69" transform="translate(3329.6 2124.7)"><tspan x="0" y="0">GCN</tspan></text>
+  <circle class="st10" cx="3595.4" cy="1992.7" r="24.5"/>
+  <line class="st10" x1="3595.4" y1="1968.9" x2="3595.4" y2="2015.8"/>
+  <line class="st10" x1="3570.9" y1="1992.8" x2="3621.5" y2="1992.8"/>
+  <g>
+    <line class="st10" x1="3803.9" y1="1992.8" x2="3621.5" y2="1992.8"/>
+    <polygon class="st66" points="3790.7 1976.5 3787.9 1979.4 3802.4 1992.8 3787.9 2006.2 3790.7 2009.2 3808.3 1992.8 3790.7 1976.5"/>
+  </g>
+  <circle class="st10" cx="3832.8" cy="1991" r="24.5"/>
+  <polyline class="st10" points="3816.5 1974.4 3849.5 2007.4 3850.2 2006.7"/>
+  <line class="st10" x1="3850.7" y1="1973.5" x2="3816" y2="2008.2"/>
+  <text class="st70" transform="translate(3621.5 1966.4) scale(1 1)"><tspan x="0" y="0">Ĝ</tspan></text>
+  <text class="st71" transform="translate(3667.5 1986.4) scale(.6)"><tspan x="0" y="0">omics1</tspan></text>
+  <text class="st70" transform="translate(3627.3 2291.5) scale(1 1)"><tspan x="0" y="0">Ĝ</tspan></text>
+  <text class="st71" transform="translate(3673.2 2311.4) scale(.6)"><tspan x="0" y="0">omics2</tspan></text>
+  <g>
+    <line class="st10" x1="3986.7" y1="1994.1" x2="3857.3" y2="1994.1"/>
+    <polygon class="st66" points="3973.5 1977.8 3970.7 1980.7 3985.2 1994.1 3970.7 2007.6 3973.5 2010.5 3991.1 1994.1 3973.5 1977.8"/>
+  </g>
+  <rect class="st55" x="3991.1" y="1937" width="279.7" height="111.5" rx="27.7" ry="27.7"/>
+  <g>
+    <line class="st10" x1="3832.8" y1="1792.7" x2="3832.8" y2="1963.3"/>
+    <polygon class="st66" points="3816.4 1950.1 3819.4 1947.4 3832.8 1961.8 3846.2 1947.4 3849.1 1950.1 3832.8 1967.7 3816.4 1950.1"/>
+  </g>
+  <line class="st10" x1="2527.9" y1="1644.1" x2="4433" y2="1644.1"/>
+  <g>
+    <line class="st10" x1="4402.2" y1="1994.1" x2="4270.8" y2="1994.1"/>
+    <polygon class="st66" points="4388.9 1977.8 4386.2 1980.7 4400.7 1994.1 4386.2 2007.6 4388.9 2010.5 4406.5 1994.1 4388.9 1977.8"/>
+  </g>
+  <path class="st33" d="M4431.9,1974.4"/>
+  <path class="st33" d="M4241.4,1623.2"/>
+  <circle class="st10" cx="4431.1" cy="1994.1" r="24.5"/>
+  <line class="st10" x1="4431.1" y1="1970.3" x2="4431.1" y2="2017.2"/>
+  <line class="st10" x1="4406.5" y1="1994.2" x2="4457.2" y2="1994.2"/>
+  <text class="st69" transform="translate(4064.5 2005.5)"><tspan x="0" y="0">reproj</tspan></text>
+  <path class="st33" d="M4457.2,1993.5"/>
+  <g>
+    <image id="img1" class="st2" width="67" height="936" transform="translate(246.6 1735.4) scale(.9)" xlink:href="pipeline-1.png"/>
+    <rect class="st52" x="330.6" y="1825.3" width="8.5" height="170.6"/>
+    <image id="img2" class="st2" width="140" height="634" transform="translate(466.6 1961.7) scale(.9)" xlink:href="pipeline-2.png"/>
+    <image id="img3" class="st2" width="41" height="568" transform="translate(551 2015.8) scale(.9)" xlink:href="pipeline-3.png"/>
+    <path class="st36" d="M341.2,1825.3l217,207.8"/>
+    <path class="st36" d="M341.2,1994.7l219.5,66.7"/>
+    <image id="img4" class="st2" width="139" height="325" transform="translate(724.9 2118.8) scale(.9)" xlink:href="pipeline-4.png"/>
+    <image id="img5" class="st2" width="67" height="656" transform="translate(988.4 1955) scale(.9)" xlink:href="pipeline-5.png"/>
+    <image id="img6" class="st2" width="67" height="401" transform="translate(1151.2 2086.7) scale(.9)" xlink:href="pipeline-6.png"/>
+  </g>
+  <text class="st78" transform="translate(322.7 1805.9) scale(1 1)"><tspan x="0" y="0">Kernel</tspan></text>
+  <text class="st58" transform="translate(275.1 2605.3) scale(1 1)"><tspan x="0" y="0">Convolution</tspan></text>
+  <text class="st58" transform="translate(626.6 2605.3) scale(1 1)"><tspan x="0" y="0">Pooling</tspan><tspan x="0" y="58.4">(2x1)</tspan></text>
+  <text class="st58" transform="translate(858.5 2605.3) scale(1 1)"><tspan x="0" y="0">Flatten</tspan></text>
+  <text class="st58" transform="translate(1090.5 2605.3) scale(1 1)"><tspan x="0" y="0">FC</tspan></text>
+  <g>
+    <line class="st10" x1="341.2" y1="2247.8" x2="394.8" y2="2247.8"/>
+    <polygon class="st66" points="423 2247.8 383.2 2264.1 392.7 2247.8 383.2 2231.6 423 2247.8"/>
+  </g>
+  <g>
+    <line class="st10" x1="629.3" y1="2247.8" x2="682.8" y2="2247.8"/>
+    <polygon class="st66" points="711.1 2247.8 671.3 2264.1 680.7 2247.8 671.3 2231.6 711.1 2247.8"/>
+  </g>
+  <g>
+    <line class="st10" x1="878.6" y1="2247.8" x2="932.2" y2="2247.8"/>
+    <polygon class="st66" points="960.4 2247.8 920.6 2264.1 930.1 2247.8 920.6 2231.6 960.4 2247.8"/>
+  </g>
+  <g>
+    <line class="st10" x1="1053.3" y1="2247.8" x2="1106.8" y2="2247.8"/>
+    <polygon class="st66" points="1135.1 2247.8 1095.3 2264.1 1104.7 2247.8 1095.3 2231.6 1135.1 2247.8"/>
+  </g>
+  <text class="st60" transform="translate(3732.7 99.5)"><tspan x="0" y="0">Feature Fusion</tspan></text>
+  <g>
+    <path class="st10" d="M2487.4,2707.5c-13.5,0-24.5-11-24.5-24.5s11-24.5,24.5-24.5,24.5,11,24.5,24.5"/>
+    <path class="st10" d="M2511.9,2683c0,13.5-11,24.5-24.5,24.5"/>
+    <polyline class="st10" points="2471 2666.4 2504 2699.4 2504.7 2698.7"/>
+    <line class="st10" x1="2505.2" y1="2665.5" x2="2470.5" y2="2700.2"/>
+  </g>
+  <g>
+    <path class="st10" d="M2860,2707.5c-13.5,0-24.5-11-24.5-24.5s11-24.5,24.5-24.5,24.5,11,24.5,24.5-11,24.5-24.5,24.5"/>
+    <line class="st10" x1="2860" y1="2659.1" x2="2860" y2="2706"/>
+    <line class="st10" x1="2835.5" y1="2683" x2="2886.2" y2="2683"/>
+  </g>
+  <text class="st72" transform="translate(2518.5 2698)"><tspan x="0" y="0">:Multiplication</tspan></text>
+  <text class="st72" transform="translate(2892.7 2695.8)"><tspan x="0" y="0">:Addition</tspan></text>
+  <rect class="st55" x="3124.8" y="2648.1" width="194.1" height="69.6" rx="21.6" ry="21.6"/>
+  <text class="st69" transform="translate(3166.5 2698.5)"><tspan x="0" y="0">GCN</tspan></text>
+  <text class="st72" transform="translate(3327.7 2695.8)"><tspan x="0" y="0">:Graph Convolutional Network</tspan></text>
+  <rect class="st55" x="4007.1" y="2648.1" width="218.8" height="69.6" rx="21.6" ry="21.6"/>
+  <text class="st69" transform="translate(4052.6 2697.6)"><tspan x="0" y="0">reproj</tspan></text>
+  <text class="st72" transform="translate(4233.2 2695.8)"><tspan x="0" y="0">:Reprojection</tspan></text>
+  <line class="st10" x1="3596.9" y1="2109.8" x2="3488.6" y2="2109.8"/>
+  <g>
+    <line class="st10" x1="3155.2" y1="1992.7" x2="3155.2" y2="2082"/>
+    <polygon class="st66" points="3138.8 2068.8 3141.7 2066.1 3155.2 2080.5 3168.6 2066.1 3171.5 2068.8 3155.2 2086.4 3138.8 2068.8"/>
+  </g>
+  <g>
+    <line class="st10" x1="3567.3" y1="1992.7" x2="2985.3" y2="1992.7"/>
+    <polygon class="st66" points="3554.1 1976.4 3551.4 1979.3 3565.8 1992.7 3551.4 2006.2 3554.1 2009.1 3571.7 1992.7 3554.1 1976.4"/>
+  </g>
+  <g>
+    <line class="st10" x1="3595.2" y1="2021.6" x2="3595.2" y2="2113.2"/>
+    <polygon class="st66" points="3578.8 2034.9 3581.8 2037.6 3595.2 2023.1 3608.6 2037.6 3611.6 2034.9 3595.2 2017.3 3578.8 2034.9"/>
+  </g>
+  <g>
+    <line class="st10" x1="4431.1" y1="1642.1" x2="4431.1" y2="1965.9"/>
+    <polygon class="st66" points="4414.7 1952.7 4417.6 1950 4431.1 1964.4 4444.5 1950 4447.4 1952.7 4431.1 1970.3 4414.7 1952.7"/>
+  </g>
+  <g>
+    <line class="st10" x1="3155.2" y1="2139.6" x2="3155.2" y2="2228.9"/>
+    <polygon class="st66" points="3138.8 2152.8 3141.7 2155.6 3155.2 2141.1 3168.6 2155.6 3171.5 2152.8 3155.2 2135.2 3138.8 2152.8"/>
+  </g>
+  <g>
+    <line class="st10" x1="3567.3" y1="2228" x2="2985.3" y2="2228"/>
+    <polygon class="st66" points="3554.1 2211.7 3551.4 2214.6 3565.8 2228 3551.4 2241.4 3554.1 2244.4 3571.7 2228 3554.1 2211.7"/>
+  </g>
+  <g>
+    <line class="st10" x1="3595.2" y1="2107.6" x2="3595.2" y2="2199.2"/>
+    <polygon class="st66" points="3578.8 2185.9 3581.8 2183.2 3595.2 2197.6 3608.6 2183.2 3611.6 2185.9 3595.2 2203.5 3578.8 2185.9"/>
+  </g>
+  <path class="st10" d="M3595.4,2203.5c13.5,0,24.5,11,24.5,24.5"/>
+  <path class="st10" d="M3595.4,2252.5c-13.5,0-24.5-11-24.5-24.5s11-24.5,24.5-24.5"/>
+  <path class="st10" d="M3619.9,2228c0,13.5-11,24.5-24.5,24.5"/>
+  <line class="st10" x1="3595.4" y1="2204.2" x2="3595.4" y2="2251"/>
+  <line class="st10" x1="3570.9" y1="2228.1" x2="3621.5" y2="2228.1"/>
+  <g>
+    <line class="st10" x1="3803.9" y1="2228" x2="3621.5" y2="2228"/>
+    <polygon class="st66" points="3790.7 2211.7 3787.9 2214.6 3802.4 2228 3787.9 2241.4 3790.7 2244.4 3808.3 2228 3790.7 2211.7"/>
+  </g>
+  <circle class="st10" cx="3832.8" cy="2226.2" r="24.5"/>
+  <polyline class="st10" points="3816.5 2209.7 3849.5 2242.7 3850.2 2241.9"/>
+  <line class="st10" x1="3850.7" y1="2208.8" x2="3816" y2="2243.5"/>
+  <g>
+    <line class="st10" x1="3986.7" y1="2228" x2="3857.3" y2="2228"/>
+    <polygon class="st66" points="3973.5 2211.7 3970.7 2214.6 3985.2 2228 3970.7 2241.4 3973.5 2244.4 3991.1 2228 3973.5 2211.7"/>
+  </g>
+  <rect class="st55" x="3991.1" y="2172.3" width="279.7" height="111.5" rx="27.7" ry="27.7"/>
+  <g>
+    <line class="st10" x1="4402.2" y1="2228" x2="4270.8" y2="2228"/>
+    <polygon class="st66" points="4388.9 2211.7 4386.2 2214.6 4400.7 2228 4386.2 2241.4 4388.9 2244.4 4406.5 2228 4388.9 2211.7"/>
+  </g>
+  <path class="st33" d="M4431.9,2208.3"/>
+  <circle class="st10" cx="4431.1" cy="2228" r="24.5"/>
+  <line class="st10" x1="4431.1" y1="2204.2" x2="4431.1" y2="2251"/>
+  <line class="st10" x1="4406.5" y1="2228.1" x2="4457.2" y2="2228.1"/>
+  <text class="st69" transform="translate(4064.5 2240.8)"><tspan x="0" y="0">reproj</tspan></text>
+  <path class="st33" d="M4457.2,2227.4"/>
+  <line class="st10" x1="2529.6" y1="2227.9" x2="2529.6" y2="2578.2"/>
+  <g>
+    <line class="st10" x1="2586.1" y1="2426.4" x2="2528.2" y2="2426.4"/>
+    <polygon class="st66" points="2572.9 2410.1 2570.2 2413 2584.6 2426.4 2570.2 2439.9 2572.9 2442.8 2590.5 2426.4 2572.9 2410.1"/>
+  </g>
+  <line class="st10" x1="2872.2" y1="2426.4" x2="3834.6" y2="2426.4"/>
+  <g>
+    <line class="st10" x1="2959.7" y1="2255.4" x2="2959.7" y2="2425"/>
+    <polygon class="st66" points="2943.4 2268.6 2946.3 2271.4 2959.7 2256.9 2973.1 2271.4 2976.1 2268.6 2959.7 2251 2943.4 2268.6"/>
+  </g>
+  <line class="st10" x1="2527.9" y1="2576.7" x2="4433" y2="2576.7"/>
+  <g>
+    <line class="st10" x1="3832.8" y1="2255.4" x2="3832.8" y2="2425"/>
+    <polygon class="st66" points="3816.4 2268.6 3819.4 2271.4 3832.8 2256.9 3846.2 2271.4 3849.1 2268.6 3832.8 2251 3816.4 2268.6"/>
+  </g>
+  <g>
+    <line class="st10" x1="4431.1" y1="2255.1" x2="4431.1" y2="2579"/>
+    <polygon class="st66" points="4414.7 2268.4 4417.6 2271.1 4431.1 2256.7 4444.5 2271.1 4447.4 2268.4 4431.1 2250.8 4414.7 2268.4"/>
+  </g>
+  <g>
+    <line class="st10" x1="4578.9" y1="1994.2" x2="4455.6" y2="1994.2"/>
+    <polygon class="st66" points="4565.6 1977.8 4562.9 1980.8 4577.3 1994.2 4562.9 2007.6 4565.6 2010.6 4583.2 1994.2 4565.6 1977.8"/>
+  </g>
+  <g>
+    <line class="st10" x1="4578.9" y1="2228.1" x2="4455.6" y2="2228.1"/>
+    <polygon class="st66" points="4565.6 2211.7 4562.9 2214.7 4577.3 2228.1 4562.9 2241.5 4565.6 2244.5 4583.2 2228.1 4565.6 2211.7"/>
+  </g>
+  <rect class="st38" x="2344.8" y="1484.6" width="2271.6" height="1267.5" rx="176.4" ry="176.4"/>
+  <g>
+    <path class="st35" d="M1044.9,1213.4s-257.4,84.6-307.3,214.2"/>
+    <polygon class="st82" points="700.4 1409.3 730.4 1487.5 783.1 1422.4 700.4 1409.3"/>
+  </g>
+  <g>
+    <line class="st35" x1="1833.8" y1="1228.7" x2="1833.8" y2="1419.1"/>
+    <polygon class="st82" points="1791.9 1406.8 1833.8 1479.4 1875.6 1406.8 1791.9 1406.8"/>
+  </g>
+  <g>
+    <line class="st35" x1="3334.2" y1="1228.7" x2="3334.2" y2="1419.1"/>
+    <polygon class="st82" points="3292.3 1406.8 3334.2 1479.4 3376.1 1406.8 3292.3 1406.8"/>
+  </g>
+  <text class="st63" transform="translate(1469.5 2605.5) scale(1 1)"><tspan x="0" y="0">Input</tspan><tspan x="0" y="59.5">layer</tspan></text>
+  <text class="st63" transform="translate(1753.4 2509.9) scale(1 1)"><tspan x="0" y="0">Hidden</tspan><tspan x="0" y="59.5" xml:space="preserve"> layer</tspan></text>
+  <text class="st63" transform="translate(2072.9 2153.8) scale(1 1)"><tspan x="0" y="0">Output</tspan><tspan x="0" y="59.5" xml:space="preserve">  layer</tspan></text>
+  <line class="st30" x1="972.3" y1="1091.2" x2="1065.9" y2="1091.2"/>
+  <line class="st30" x1="2518.9" y1="733.3" x2="2621.6" y2="733.3"/>
+  <g>
+    <line class="st34" x1="3563" y1="1040.6" x2="3526.9" y2="1077.3"/>
+    <line class="st34" x1="3526.9" y1="1105" x2="3563" y2="1141.7"/>
+    <rect class="st68" x="3524.3" y="1077.3" width="15.5" height="27.7" transform="translate(7064.2 2182.3) rotate(180)"/>
+  </g>
+  <line class="st34" x1="3563" y1="328.5" x2="3526.9" y2="365.2"/>
+  <line class="st34" x1="3526.9" y1="392.9" x2="3563" y2="429.5"/>
+  <rect class="st68" x="3524.3" y="365.2" width="15.5" height="27.7" transform="translate(7064.2 758.1) rotate(180)"/>
+  <g>
+    <path class="st35" d="M3897.3,1309.4s-1.5,73.5-96.5,73.5h-1682s-28.1,3.2-48,25.6"/>
+    <polygon class="st82" points="2040.4 1382.6 2051.3 1465.7 2117.8 1414.7 2040.4 1382.6"/>
+  </g>
+  <rect class="st68" x="992.8" y="10" width="15.7" height="121.8"/>
+  <rect class="st68" x="2258.7" y="10" width="15.6" height="121.8"/>
+  <rect class="st68" x="3004.8" y="10" width="15.6" height="121.8"/>
+  <polygon class="st68" points="3098.7 70.9 3020.4 10 3020.4 131.8 3098.7 70.9"/>
+  <polygon class="st79" points="3083.1 70.9 3004.8 10 3004.8 131.8 3083.1 70.9"/>
+  <rect class="st79" x="2274.3" y="10" width="730.4" height="121.8"/>
+  <text class="st60" transform="translate(2434 99.5)"><tspan x="0" y="0">Feature Alignment</tspan></text>
+  <polygon class="st68" points="2352.6 70.9 2274.3 10 2274.3 131.8 2352.6 70.9"/>
+  <polygon class="st79" points="2337 70.9 2258.7 10 2258.7 131.8 2337 70.9"/>
+  <rect class="st79" x="1008.5" y="10" width="1250.2" height="121.8"/>
+  <text class="st60" transform="translate(1426.8 99.5)"><tspan x="0" y="0">Feature Extraction</tspan></text>
+  <polygon class="st68" points="1086.8 70.9 1008.5 10 1008.5 131.8 1086.8 70.9"/>
+  <polygon class="st79" points="1071.1 70.9 992.8 10 992.8 131.8 1071.1 70.9"/>
+  <rect class="st79" x="9.6" y="10" width="983.2" height="121.8"/>
+  <text class="st60" transform="translate(427.9 99.5)"><tspan x="0" y="0">Input</tspan></text>
+</svg>
